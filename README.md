@@ -31,10 +31,3 @@ Every feature, including error handling and arithmetic operations, was written *
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/string-calculator.git
-cd string-calculator
